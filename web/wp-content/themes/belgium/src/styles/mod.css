@@ -145,9 +145,9 @@ footer .footer {
   height: auto;
 }
 
-footer .brand {
+/* footer .brand {
   margin-top: -60px;
-}
+} */
 
 .heading .logo {
   width: 175px;
@@ -480,7 +480,7 @@ a {
 
 
 .banner .logo img {
-  width: 100%;
+  width: auto;
   max-width: 365px;
   height: auto;
   max-height: 55px;
