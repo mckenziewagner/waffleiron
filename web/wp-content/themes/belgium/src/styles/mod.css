@@ -145,9 +145,15 @@ footer .footer {
   height: auto;
 }
 
-/* footer .brand {
-  margin-top: -60px;
-} */
+footer .brand {
+  margin-top: none;
+}
+
+@media (max-width: 888px) {
+  footer .brand {
+    max-width: 75%;
+  }
+}
 
 .heading .logo {
   width: 175px;
@@ -390,6 +396,10 @@ a {
 
 .button-wrap:last-child {
   margin-left: 20px;
+}
+
+.button-wrap:last-child {
+  width: 50%;
 }
 
 .button-wrap:hover p span {
