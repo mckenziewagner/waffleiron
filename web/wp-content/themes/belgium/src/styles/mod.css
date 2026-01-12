@@ -904,3 +904,7 @@ p > b {
 .the-content .flex img {
   align-self: center;
 }
+
+.w-24 {
+  width: 25rem;
+}
