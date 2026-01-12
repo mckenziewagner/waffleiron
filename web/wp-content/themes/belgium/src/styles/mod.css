@@ -399,7 +399,7 @@ a {
 }
 
 .button-wrap:last-child {
-  width: 50% !important;
+  width: 50%;
 }
 
 .button-wrap:hover p span {
